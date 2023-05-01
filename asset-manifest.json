@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jamuyng/project4.git/static/css/main.61e853c2.css",
+    "main.js": "/jamuyng/project4.git/static/js/main.2ee72bb2.js",
+    "static/js/787.17c6f57e.chunk.js": "/jamuyng/project4.git/static/js/787.17c6f57e.chunk.js",
+    "index.html": "/jamuyng/project4.git/index.html",
+    "main.61e853c2.css.map": "/jamuyng/project4.git/static/css/main.61e853c2.css.map",
+    "main.2ee72bb2.js.map": "/jamuyng/project4.git/static/js/main.2ee72bb2.js.map",
+    "787.17c6f57e.chunk.js.map": "/jamuyng/project4.git/static/js/787.17c6f57e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61e853c2.css",
+    "static/js/main.2ee72bb2.js"
+  ]
+}
